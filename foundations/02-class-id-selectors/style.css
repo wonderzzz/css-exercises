@@ -1,0 +1,32 @@
+.red-backround,.big-red{
+    background-color: rgba(255,0,0,0.4);
+    font-weight:bold;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+.big-red{
+    font-size: 28px;
+
+}
+
+#blue-text,#boldy{
+    font-family: serif
+
+}
+
+#blue-text{
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+#boldy{
+ font-size: 32px;
+ background-color: rgba(0,255,0,0.4);
+ font-weight: bold;
+
+}
+
